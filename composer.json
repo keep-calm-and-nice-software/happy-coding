@@ -1,5 +1,5 @@
 {
-    "name": "jonatan/game-of-life",
+    "name": "keep-calm-and-nice-software/php-skeleton",
     "type": "project",
     "require": {
         "php": "^7.3"
