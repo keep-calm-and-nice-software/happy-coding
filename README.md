@@ -31,7 +31,7 @@ php composer.phar install
 
 ## Utils
 
-- [PHPUnit Full List Asserts](https://phpunit.readthedocs.io/es/latest/assertions.htm) A documentation with all the types of asserts than you can use in PHPUnit
+- [PHPUnit Full List Asserts](https://phpunit.readthedocs.io/es/latest/assertions.html) A documentation with all the types of asserts than you can use in PHPUnit
 - [PHPStan](https://github.com/phpstan/phpstan) is a static analysis tool that allows you to discover problems in your code without running it.
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) is a tool to **automatically** fix PHP Coding Standards issues .
 
