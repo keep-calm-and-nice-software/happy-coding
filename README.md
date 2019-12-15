@@ -3,17 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Overview
+Aiming to help training participants to quickly get up & running during "Code & Discuss" time, here you can find project templates as starting points.
 
-This living repository contains project templates as starting points (in different programming languages and testing frameworks). Aiming to help training participants to quickly get up & running during "Code & Discuss" blocks.
-
-## Want to contribute?
-
-Nice! Feel free to add an issue or directly submit a PR, we'll be thankful and happy to review it :)
-
-## What else?
-
-Happy coding!
+Aiming at a language-agnostic learning experience, we plan to offer the templates in a variety of programming languages and testing frameworks. 
 
 ## Contributors ✨
 
