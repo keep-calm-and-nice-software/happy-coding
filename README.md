@@ -1,6 +1,6 @@
 # happy-coding
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Project templates provided as starting points for "Code & Discuss" blocks, allowing participants to quickly get up & running.
@@ -17,6 +17,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.jonatanmc.es"><img src="https://avatars3.githubusercontent.com/u/6991527?v=4" width="100px;" alt=""/><br /><sub><b>Jonatan Menéndez</b></sub></a><br /><a href="https://github.com/keep-calm-and-nice-software/happy-coding/commits?author=Jonatanmdez" title="Code">💻</a> <a href="https://github.com/keep-calm-and-nice-software/happy-coding/commits?author=Jonatanmdez" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://dcarral.org"><img src="https://avatars1.githubusercontent.com/u/1498567?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Carral</b></sub></a><br /><a href="https://github.com/keep-calm-and-nice-software/happy-coding/commits?author=dcarral" title="Documentation">📖</a></td>
   </tr>
 </table>
 
