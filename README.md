@@ -3,9 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Aiming to help training participants to quickly get up & running during "Code & Discuss" time, here you can find project templates as starting points.
+Project templates provided as starting points for "Code & Discuss" blocks, allowing participants to quickly get up & running.
 
-Aiming at a language-agnostic learning experience, we plan to offer the templates in a variety of programming languages and testing frameworks. 
+Aiming at a language-agnostic learning experience, we plan to offer these templates in a variety of programming languages and testing frameworks. 
 
 ## Contributors ✨
 
