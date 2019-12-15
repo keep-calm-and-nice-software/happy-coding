@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Jonatanmdez",
+      "name": "Jonatan Menéndez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6991527?v=4",
+      "profile": "https://www.jonatanmc.es",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "happy-coding",
+  "projectOwner": "keep-calm-and-nice-software",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
